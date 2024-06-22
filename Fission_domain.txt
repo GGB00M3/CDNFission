@@ -1,1 +1,3 @@
 proxyip.aliyun.fxxk.dedyn.io
+sg.onecf.eu.org
+us.wokaotianshi.eu.org
